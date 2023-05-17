@@ -1,0 +1,36 @@
+.form{
+    margin:1.3rem;
+    display: flex;
+    flex-direction: column;
+}
+.control{
+    display: flex;
+    flex-direction: column;
+    margin:0.3rem 0;
+}
+.control input{
+    height: 2rem;
+}
+.control label{
+    font-size: large;
+    font-weight: bold;
+}
+.control1{
+    display: flex;
+    justify-content:flex-start;
+
+    font-size: large;
+        font-weight: bold;
+        margin: 0.3rem 0rem;
+}
+.control1 input{
+    margin-left: 12rem;
+    width:1rem
+
+}
+.btn{
+    height:2rem;
+    background-color: black;
+    color:white;
+    letter-spacing: 3px;
+}
